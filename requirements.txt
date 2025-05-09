@@ -1,0 +1,4 @@
+stanza>=1.7.0
+numpy>=1.26.0
+pandas>=2.2.0
+python-dateutil>=2.8.2 
