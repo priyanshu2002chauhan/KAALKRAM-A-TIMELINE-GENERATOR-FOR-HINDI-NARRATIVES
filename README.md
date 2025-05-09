@@ -1,10 +1,10 @@
-# ChronoNarrative
+# KaalKram
 
 A Hindi text processing pipeline for time-based event recognition using Stanza.
 
 ## Overview
 
-ChronoNarrative is a text processing system that analyzes Hindi text to identify and structure sentences, focusing on time-based events such as actions, locations, and time references. The system uses Stanza for linguistic analysis including tokenization, lemmatization, POS tagging, and dependency parsing.
+KaalKram is a text processing system that analyzes Hindi text to identify and structure sentences, focusing on time-based events such as actions, locations, and time references. The system uses Stanza for linguistic analysis including tokenization, lemmatization, POS tagging, and dependency parsing.
 
 ## Features
 
