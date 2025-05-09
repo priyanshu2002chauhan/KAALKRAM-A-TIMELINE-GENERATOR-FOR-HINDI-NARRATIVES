@@ -1,5 +1,5 @@
 import stanza
-from chrono_narrative import HindiTextProcessor
+from kaalkram import HindiTextProcessor
 
 # Initialize the processor
 processor = HindiTextProcessor()
